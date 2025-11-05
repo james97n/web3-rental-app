@@ -1,4 +1,4 @@
-🏡 Web3 Rental App Demo🏡
+# 🏡 Web3 Rental App Demo🏡
 
 This is a property rental demo frontend-focused application built with React and Web3 integration.
 
